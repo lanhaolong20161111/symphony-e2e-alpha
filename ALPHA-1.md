@@ -1,7 +1,7 @@
 ---
 id: ALPHA-1
 title: "E2E e2e-alpha ticket 1"
-state: ready
+state: in-progress
 priority: 1
 ---
 **只做这一件事，不要探索仓库、不要跑测试套件、不要读别的文件**（省 token ✓）。
