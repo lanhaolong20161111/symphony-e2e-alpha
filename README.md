@@ -10,4 +10,4 @@
 | Ticket | Title | State | Pri | Assignee | Blocked by | Updated |
 |---|---|---|---|---|---|---|
 | [ALPHA-1](ALPHA-1.md) | E2E e2e-alpha ticket 1 | `in-review` | 1 |  |  | 09-30 20:03 |
-| [ALPHA-2](ALPHA-2.md) | E2E e2e-alpha ticket 2 | `in-progress` | 2 |  |  | 09-30 20:03 |
+| [ALPHA-2](ALPHA-2.md) | E2E e2e-alpha ticket 2 | `in-progress` | 2 |  |  | 09-30 20:04 |

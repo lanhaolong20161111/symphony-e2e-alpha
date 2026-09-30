@@ -1,4 +1,6 @@
 ---
+links: [{url: "https://github.com/lanhaolong20161111/symphony-e2e-alpha/pull/2", title: "PR 2", kind: pr}]
+branch_name: symphony/ALPHA-2
 id: ALPHA-2
 title: "E2E e2e-alpha ticket 2"
 state: in-progress
